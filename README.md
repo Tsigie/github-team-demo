@@ -1,2 +1,2 @@
 # github-team-demo
-repo to practice creating pull requests and github workflow
+1. `git clone` this repo
