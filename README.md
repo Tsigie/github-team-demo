@@ -5,3 +5,6 @@
 4. Create a new file using the command. `touch patrick-knowlan.js`
 5. Add your changes locally `git add .`
 6. Commit your changes locally with a meaningful message. `git commit -m "adding a new feature"`
+7. Check the status of your local code `git status`
+8. Push your feature branch to the team github repo `git push origin your-branch-name`
+9. Go to github and create a pull request.
